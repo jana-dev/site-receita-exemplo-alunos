@@ -1,0 +1,53 @@
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.bloco-principal{
+    max-width: 900px;
+    margin: auto;
+}
+h1{
+    color: orangered;
+    margin-bottom: 0;
+}
+.nome{
+    color: gray;
+    margin-top: 0;
+}
+img{
+    width: 100%;
+    border-radius: 20px;
+    margin: 20px 0;
+}
+.informacoes{
+    border: 1px solid rgb(179, 179, 179);
+    display: flex;
+    justify-content: space-around;
+    border-radius: 20px;
+    padding: 10px;
+}
+h2{
+    background-color: rgb(248, 168, 130);
+    line-height: 36px;
+    padding: 0 20px;
+    border-radius: 20px;
+    color: rgb(45, 45, 45);
+}
+h3{
+    font-size: 2rem;
+}
+h4{
+    background-color: orangered;
+    display: inline;
+    padding: 5px 10px;
+    border-radius: 20px;
+    color: white;
+}
+li{
+    padding: 10px;
+}
+.dica{
+    margin-top: 20px;
+    border: 2px solid rgb(255, 213, 0);
+    padding: 20px;
+    border-radius: 20px;
+}
